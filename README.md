@@ -4,4 +4,5 @@ im putting this here because i heard from somebody that sharing was caring... ok
 
 currently can be seen on sites like these!!!
 - [Outlaster Wiki](https://outlaster.miraheze.org)
+<br>
 make sure to give credit
