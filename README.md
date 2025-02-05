@@ -1,3 +1,6 @@
 # wild's dumps
 wiki css dumps from wikis i work on (currently only working on outlaster)
-you are completely free to use this just like give some credit idk kinda cool
+im putting this here because i heard from somebody that sharing was caring... ok and
+
+currently can be seen on sites like these!!!
+- [Outlaster Wiki](https://outlaster.miraheze.org)
